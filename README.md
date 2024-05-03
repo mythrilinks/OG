@@ -1,1 +1,1 @@
-Main DB for all personal projects
+Main DB for all FES projects
