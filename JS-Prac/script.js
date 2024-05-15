@@ -7,6 +7,4 @@ function getMax(arr) {
     }
     return max;
 }
-
-
 console.log(getMax([-300, -100, -200]));
